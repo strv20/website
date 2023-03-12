@@ -1,6 +1,6 @@
 ---
 title: "The EffecTs of Amlodipine and other Blood PREssure Lowering Agents on Microvascular FuncTion in Small Vessel Diseases (TREAT-SVDs) trial Study protocol for a randomised crossover trial"
-subtitle: "A Kopczak, MS Stringer, H van den Brink, D Kerkhofs, GW Blair, M van Dinther, L Onkenhout, KA Wartolowska, MJ Thrippleton, M Duering, J Staals, M Middeke, E André, B Norrving, M-G Bousser, U Mansmann, PM Rothwell, FN Doubal, R van Oostenbrugge, GJ Biessels, AJS Webb, JM Wardlaw and M Dichgans on behalf of the SVDs@target consortium"
+subtitle: "A Kopczak, MS Stringer, H van den Brink, D Kerkhofs, GW Blair, M van Dinther, L Onkenhout, KA Wartolowska, MJ Thrippleton, M Duering, J Staals, M Middeke, E Andre, B Norrving, M-G Bousser, U Mansmann, PM Rothwell, FN Doubal, R van Oostenbrugge, GJ Biessels, AJS Webb, JM Wardlaw and M Dichgans on behalf of the SVDs@target consortium"
 excerpt: "Hypertension is the leading modifiable risk factor for cerebral small vessel diseases (SVDs). Yet, it is unknown whether antihypertensive drug classes differentially affect microvascular function in SVDs. We aim to test whether amlodipine has a beneficial effect on microvascular function when compared to either losartan or atenolol, and whether losartan has a beneficial effect when compared to atenolol in patients with symptomatic SVDs."
 weight: 5
 author: "Michael S. Stringer"
