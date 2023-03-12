@@ -116,12 +116,12 @@ enableEmoji = true
   [[menu.header]]
     name = "Research"
     title = "learn more about my current and recent research projects"
-    url = "/learn/"
+    url = "/research/"
     weight = 3
   [[menu.header]]
     name = "Publications"
     title = ""
-    url = "/project/"
+    url = "/publications/"
     weight = 4
   [[menu.header]]
     name = "Teaching"
@@ -129,20 +129,15 @@ enableEmoji = true
     url = "/teaching/"
     weight = 5
   [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
+    name = "news"
+    title = "News"
+    url = "/news/"
     weight = 6
   # [[menu.header]]
    # name = "A collection"
    # title = "A collection"
    # url = "/collection/"
    # weight = 5
-  [[menu.header]]
-    name = "Elements"
-    title = "Element Page"
-    url = "/elements/"
-    weight = 6
 
   # Configure footer  
   [[menu.footer]]
