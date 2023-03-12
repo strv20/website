@@ -6,6 +6,7 @@ weight: 5
 author: "Michael S. Stringer"
 date: 2022-10-12
 draft: false
+featured: true
 categories:
   - cerebrovascular reactivity
   - blood flow velocity
@@ -50,7 +51,7 @@ Cerebral small vessel diseases (cSVDs) are a major cause of stroke and dementia.
 
 ### Methods
 
-We recruited 23 CADASIL patients (age 51.1?±?10.1?years, 52% women) and 13 age- and sex-matched controls (46.1?±?12.6, 46% women). Small vessel function measures included: basal ganglia and centrum semiovale perforating artery blood flow velocity and pulsatility, vascular reactivity to a visual stimulus in the occipital cortex and reactivity to hypercapnia in the cortex, subcortical gray matter, white matter, and white matter hyperintensities.
+We recruited 23 CADASIL patients (age 51.1???10.1?years, 52% women) and 13 age- and sex-matched controls (46.1???12.6, 46% women). Small vessel function measures included: basal ganglia and centrum semiovale perforating artery blood flow velocity and pulsatility, vascular reactivity to a visual stimulus in the occipital cortex and reactivity to hypercapnia in the cortex, subcortical gray matter, white matter, and white matter hyperintensities.
 
 ### Results
 
