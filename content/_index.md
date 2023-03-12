@@ -1,9 +1,9 @@
 ---
-title: "Hugo Apéro"
-subtitle: "A Hugo theme you'll want to hang out with"
-description: "Welcome to the documentation site for the Hugo Apéro (*a-pay-ROH*) theme! Inside, you'll find how to get started building a new site with this theme. You'll learn a bit about Hugo, and a lot about what makes this theme unique and, we hope, fun to get to know. Bon apéro!"
+title: "Michael S. Stringer"
+subtitle: "Research Fellow in Magnetic Resonance Imaging"
+description: "I am a researcher who uses magnetic resonance imaging to study how damage to blood vessels affects patient health, particularly in small vessel disease which causes many strokes and dementias. On this site you can find out a bit about me and my work."
 images:
-  - img/voir.jpg
+  - img/paolozzi_1939_ds.jpg
 image_left: false
 text_align_left: true
 show_social_links: true # specify social accounts in site config

@@ -1,114 +1,34 @@
 ---
-title: "Customize your homepage"
-subtitle: "Make your homepage a welcome mat for your site visitors. Add an image, social links, and an action link to help users hang out and explore your site longer."
-excerpt: "The first page your visitors will see is the homepage. This should also be the first page you touch when you make your site. Add an image, social links, and an action link to help users hang out and explore your site longer."
-date: 2021-03-14
-author: "Alison Hill"
+title: "SVDs@Target"
+subtitle: "An international collaboration funded by H2020 including three clinical imaging studies in addition to preclinical research."
+excerpt: "Investigate- and Zoom-SVDs sought to better understand the role different blood vessel damage plays in causing the tissue damage we see in people with small vessel disease. Treat-SVDs aimed to determine which of three existing antihypertensive agents treatments were most effective at improving the capacity of blood vessels to open in response to demand."
+date: 2023-03-11
+author: "Michael S. Stringer"
 draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
-- evergreen
+- SVDs@Target
 ---
 
-Start customizing your Hugo Apéro homepage by opening up `content/_index.md`. When you open this file, you'll see a long-ish section of YAML with a series of key-value pairs fenced in by three dashes (`---`). There is no content on this page below the YAML.
+## Investigate-SVDs
 
-The underscore in the filename is important, and so is the filename, so don't change this! But do focus on changing the YAML values. 
+Investigate-SVDs aimed to assess the feasibility of acquiring multiple advanced vascular imaging metrics in a multisite study recruiting participants with small vessel disease (SVD) at three sites, the University of Edinburgh, Ludwig-Maximilian University and the University of Maastricht. 
 
-## Add an image
+In addition to a detailed structural imaging protocol, we acquired measures of how well the blood vessels open in response to demand (cerebrovascular reactivity), how smooth the in- and out-flowing blood and cerebrospinal fluid were (pulsatility) and how leaky the blood-brain barrier was. As the first study to assess these three vascular dysfunction in the same visit we were also able to assess how different vascular dysfunctions inter-relate.
 
-Place the homepage image in the `static/` folder in the root of your website project (don't add it to your `themes/hugo-apero/static` folder!). Then, in your `_index.md`, set the `images` key to the name of this file. For example:
+Finally, Investigate-SVDs established the analysis methods used for Treat-SVDs (described below).
 
-```yaml
----
-images:
-  - hello.jpg
----
-```
+![r](inv_fig.png)
 
-You can place the image file in a subdirectory of `static/` as well. For example, if you place your image in `static/img/` you would put this in your YAML:
+## Treat-SVDs
 
-```yaml
----
-images:
-  - img/hello.jpg
----
-```
+Treat-SVDs is a clinical trial which aims to assess which of three blood pressure medications show the largest improvement in cerebrovascular reactivity. Participants were recruited across 5 sites (Ludwig-Maximilian University, Universities of Oxford, Edinburgh, Maastricht and University Medical Centre Utrecht).
 
-No need to include `static/` in the filepath.
+Treat-SVDs is one of the first trials to use cerebrovascular reactivity as the primary end-point for the trial. 
 
-The image you choose will also be the Twitter sharing summary card for the base URL of your site. You can check the sharing card using the [Twitter card validator](https://cards-dev.twitter.com/validator). Here is the sharing card for the theme's [example site](https://hugo-apero.netlify.app/):
+## Zoom-SVDs
 
-![](homepage-card.png)
+Zoom-SVDs recruited participants with sporadic and genetic small vessel disease, as well as age-matched controls to undergo high-field 7 T MRI scans. These more powerful scanners allow acquisition of images which are higher resolution than would be possible with the scanners which are used clinically or for most research studies. Scanning was performed at the University Medical Centre Utrecht with patients with sporadic SVD recruited locally while CADASIL patients were recruited from Munich.
 
-## Image on the left or right
-
-Next, decide whether you want your image on the left (`image_left: true`) or the right (`image_left: false`):
-
-```yaml
----
-images:
-  - img/hello.jpg
-image_left: false
----
-```
-
-## Customize text
-
-If you place your image on the left, your text will be on the right, and vice versa. The YAML keys for the main text on the homepage are:
-
-```yaml
----
-title: "Hugo Apéro"
-subtitle: "A Hugo theme you'll want to hang out with"
-description: "Welcome to the documentation site for the Hugo Apéro theme!"
----
-```
-
-Wherever you place your image and text, you can separately align your text to the left or right:
-
-```yaml
----
-title: "Hugo Apéro"
-subtitle: "A Hugo theme you'll want to hang out with"
-description: "Welcome to the documentation site for the Hugo Apéro theme!"
-text_align_left: true
----
-```
-
-## Show social icons
-
-To show your social icons on the homepage, set the `show_social_links` key to `true` in your YAML:
-
-```yaml
----
-show_social_links: true # specify social accounts in site config
----
-```
-
-See [Set up your social](/learn/social/) to find out how to configure your social icons and links.
-
-## Show action link
-
-At the bottom of your `description`, you have the option to add an action link. Set `show_action_link` to `true`, then use the `action_*` keys to configure the link. You can use relative links to other pages in your site by using a relative URL starting with a forward slash, so `/about` for example.
-
-```yaml
----
-show_action_link: true
-action_link: /about
-action_label: "Read More &rarr;"
-action_type: text # text, button
----
-```
-
-Configure the label for the link with the `action_label` key. You can also include Font Awesome icons using HTML, but be careful of your quotes there:
-
-```yaml
----
-action_label: "Read More <i class='fas fa-rocket'></i>"
----
-```
-
-Finally, choose between a text display or a clickable button.
-
-That's it! You are done with your homepage.
+![](featured.png)

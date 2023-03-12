@@ -1,8 +1,8 @@
 baseURL = "https://hugo-apero-docs.netlify.app/"
 languageCode = "en"
 theme = "hugo-apero"
-title = "Hugo Apéro"
-author = "Alison Hill"
+title = "Michael S. Stringer"
+author = "Michael S. Stringer"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
@@ -41,14 +41,14 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/papillons.jpg"
+  sharing_image = "/img/inv_fig.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "apreshill"
+  twitter = "SVDResearch"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "peach"
+  theme = "sky"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -84,23 +84,23 @@ enableEmoji = true
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/hugo-apero/"
+      url       = "https://github.com/msstringer/"
   [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
+      icon      = "researchgate" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/apreshill"
+      url       = "https://www.researchgate.net/profile/Michael-Stringer-4"
   [[params.social]]
-      icon      = "discord" # icon name without the 'fa-'
+      icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://discord.gg/QbGXCFTMNb"
+      url       = "https://www.linkedin.com/in/msstringer/"
   [[params.social]]
-      icon      = "youtube" # icon name without the 'fa-'
+      icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://youtube.com/playlist?list=PLzxicn7kBeay3kTPuTQ9lSi7I5jfWmEwc"
+      url       = "https://orcid.org/my-orcid?orcid=0000-0002-3811-4439"
   [[params.social]]
-      icon      = "lemon" # icon name without the 'fa-'
-      icon_pack = "far"
-      url       = "https://hugo-apero.netlify.app/"
+      icon      = "google-scholar" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://scholar.google.com/citations?user=CZfAHP4AAAAJ&hl=en"      
 
 [taxonomies]
   category = "categories"
@@ -110,29 +110,29 @@ enableEmoji = true
 [menu]
   [[menu.header]]
     name = "About"
-    title = "About Apéro"
+    title = "About Me"
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Get started"
-    title = "Get started using the Hugo Apéro theme"
-    url = "/get-started/"
-    weight = 2
-  [[menu.header]]
-    name = "Learn"
-    title = "learn more about using the Hugo Apéro theme"
+    name = "Research"
+    title = "learn more about my current and recent research projects"
     url = "/learn/"
     weight = 3
   [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
+    name = "Publications"
+    title = ""
     url = "/project/"
     weight = 4
+  [[menu.header]]
+    name = "Teaching"
+    title = "Teaching"
+    url = "/teaching/"
+    weight = 5
   [[menu.header]]
     name = "Talks"
     title = "Talks"
     url = "/talk/"
-    weight = 5
+    weight = 6
   # [[menu.header]]
    # name = "A collection"
    # title = "A collection"
@@ -155,11 +155,6 @@ enableEmoji = true
     title = "Contact form"
     url = "/contact/"
     weight = 2
-  [[menu.footer]]
-    name = "Contributors"
-    title = "Contributors"
-    url = "/contributors/"
-    weight = 3
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]

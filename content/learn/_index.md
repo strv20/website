@@ -1,20 +1,18 @@
 ---
-title: Learn about Hugo Apéro
+title: Research projects
 description: |
-  Learn how to use Hugo Apéro to build a personal website.
-author: "Alisson Hill"
+  Learn more about my research projects.
+author: "Michael S. Stringer"
 show_post_thumbnail: true
-show_author_byline: true
+show_author_byline: false
 show_post_date: true
 # for listing page layout
 layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: Learn about Hugo Apéro
-  description: |
-    Learn how to use Hugo Apéro to build a personal website.
-  author: "Alison Hill"
+  title: Learn more about my research
+  author: "Michael S. Stringer"
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
   show_sidebar_adunit: false # show ad container
@@ -22,10 +20,10 @@ sidebar:
 # set up common front matter for all pages inside blog/
 cascade:
   type: blog
-  author: "Alison Hill"
+  author: "Michael S. Stringer"
   show_author_byline: true
   show_post_date: true
-  show_comments: true # see site config to choose Disqus or Utterances
+  show_comments: false # see site config to choose Disqus or Utterances
   # for single-sidebar layout
   sidebar:
     text_link_label: View recent articles
