@@ -2,9 +2,10 @@
 title: "SVDs@Target"
 subtitle: "An international collaboration funded by H2020 including three clinical imaging studies in addition to preclinical research."
 excerpt: "Investigate- and Zoom-SVDs sought to better understand the role different blood vessel damage plays in causing the tissue damage we see in people with small vessel disease. Treat-SVDs aimed to determine which of three existing antihypertensive agents treatments were most effective at improving the capacity of blood vessels to open in response to demand."
-date: 2023-03-11
+date: 2023-03-13
 author: "Michael S. Stringer"
 draft: false
+featured: true
 # layout options: single, single-sidebar
 layout: single
 categories:

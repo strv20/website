@@ -1,10 +1,11 @@
 ---
 title: "Mild Stroke Study 3"
 subtitle: "Longitudinal imaging study understanding how baseline vascular dysfunctions influence how tissue evolves over one and three years"
-excerpt: "This theme includes a proper 'about' page- something that not a lot of Hugo themes provide! This page is meant to compliment your homepage. A good about page lets you keep your homepage brief and inviting, while still giving you the space to give your visitors the 'cooks tour' of your site."
+excerpt: "Mild stroke study 3 is a longitudinal study in people who experienced mild strokes. We acquire detailed structural and functional images to try to better understand what causes some tissues to become less healthy over time."
 date: 2023-03-11
 author: "Michael S. Stringer"
 draft: false
+featured: true
 # layout options: single, single-sidebar
 layout: single
 categories:

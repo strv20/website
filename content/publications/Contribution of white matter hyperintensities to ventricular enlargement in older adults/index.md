@@ -36,10 +36,10 @@ links:
 }
 </style>
 
-<img src="featured.jpg" data-fig-alt="Individual participant?s changes in WMH volume ratio between Waves by quintile of WMH volume ratio change between Wave 2 and 4 (mean age of 72.67 vs 79.44)." style="width:100.0%" />
+<img src="featured.jpg" data-fig-alt="Individual participant's changes in WMH volume ratio between Waves by quintile of WMH volume ratio change between Wave 2 and 4 (mean age of 72.67 vs 79.44)." style="width:100.0%" />
 
 <p class="caption" style="text-align:left;">
-<b>Figure 2c.</b> Individual participant?s changes in WMH volume ratio between Waves by quintile of WMH volume ratio change between Wave 2 and 4 (mean age of 72.67 vs 79.44). The sample is divided by quintiles of WMH volume ratio change between each two waves. Quintile 1 (Q1) indicates no changes or decreased WMH volume ratio; Quintile 5 (Q5) largest WMH volume ratio increase. Black bold lines represent mean volumes per quintile.
+<b>Figure 2c.</b> Individual participant's changes in WMH volume ratio between Waves by quintile of WMH volume ratio change between Wave 2 and 4 (mean age of 72.67 vs 79.44). The sample is divided by quintiles of WMH volume ratio change between each two waves. Quintile 1 (Q1) indicates no changes or decreased WMH volume ratio; Quintile 5 (Q5) largest WMH volume ratio increase. Black bold lines represent mean volumes per quintile.
 </p>
 
 ## Abstract

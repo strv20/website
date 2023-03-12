@@ -6,6 +6,7 @@ weight: 5
 author: "Michael S. Stringer"
 date: 2022-12-16
 draft: false
+featured: true
 categories:
   - small vessel disease
   - lacunar stroke
