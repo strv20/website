@@ -1,4 +1,4 @@
-baseURL = "https://hugo-apero-docs.netlify.app/"
+baseURL = "https://mssmri.netlify.app/"
 languageCode = "en"
 theme = "hugo-apero"
 title = "Michael S. Stringer"
@@ -71,7 +71,7 @@ enableEmoji = true
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
     use_utterances = true
-    repo_name = "hugo-apero/hugo-apero-docs"
+    repo_name = "msstringer/website"
     issue_term = "pathname" # url, pathname, or title
     theme = "boxy-light"
     label = "comments :crystal_ball:"
