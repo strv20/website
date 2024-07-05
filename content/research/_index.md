@@ -27,7 +27,7 @@ cascade:
   # for single-sidebar layout
   sidebar:
     text_link_label: View recent articles
-    text_link_url: /learn/
+    text_link_url: /research/
     show_sidebar_adunit: false # show ad container
 ---
 

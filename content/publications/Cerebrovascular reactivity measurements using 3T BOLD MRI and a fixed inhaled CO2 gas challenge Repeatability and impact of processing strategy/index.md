@@ -53,7 +53,7 @@ We simulated the effect of noise, delay constraints and voxel- versus region-bas
 
 ### Results
 
-Test-retest repeatability was high [mean (95% CI) inter-scan difference: −0.01 (−0.03, −0.00) %/mmHg for GM CVR magnitude; −0.3 (−1.2,0.6) s for GM CVR delay], but we detected a small systematic reduction in CVR magnitude at scan 2 versus scan 1, accompanied by a greater EtCO2 change [±1.0 (0.4,1.5) mmHg] and lower heart rate [−5.5 (−8.6,−2.4] bpm]. CVR magnitude estimates were higher for voxel- versus region-based analysis [difference in GM: ±0.02 (0.01,0.03) %/mmHg]. Findings were supported by simulation results, predicting a positive bias for voxel-based CVR estimates dependent on temporal contrast-to-noise ratio and delay fitting constraints and an underestimation for region-based CVR estimates.
+Test-retest repeatability was high [mean (95% CI) inter-scan difference: -0.01 (-0.03, -0.00) %/mmHg for GM CVR magnitude; -0.3 (-1.2,0.6) s for GM CVR delay], but we detected a small systematic reduction in CVR magnitude at scan 2 versus scan 1, accompanied by a greater EtCO2 change [�1.0 (0.4,1.5) mmHg] and lower heart rate [-5.5 (-8.6,-2.4] bpm]. CVR magnitude estimates were higher for voxel- versus region-based analysis [difference in GM: �0.02 (0.01,0.03) %/mmHg]. Findings were supported by simulation results, predicting a positive bias for voxel-based CVR estimates dependent on temporal contrast-to-noise ratio and delay fitting constraints and an underestimation for region-based CVR estimates.
 
 ### Discussion
 

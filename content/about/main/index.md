@@ -1,6 +1,6 @@
 ---
 ## Configure page content in wide column
-title: Welcome to my page # leave blank to exclude
+title: Welcome to my page! # leave blank to exclude
 number_featured: 2 # pulling from mainSections in config.toml
 number_categories: 0 # set to zero to exclude
 use_featured: false
