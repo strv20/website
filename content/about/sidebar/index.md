@@ -1,7 +1,7 @@
 ---
 ## Configure sidebar content in narrow column
 author: "Michael S. Stringer"
-role: "Lecturer in Magnetic Resonance Physics"
+role: "Lecturer in Magnetic Resonance Physics <br> Stroke Association Fellow"
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
 audio_link_label:  # leave blank to exclude
