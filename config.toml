@@ -1,8 +1,8 @@
-baseURL = "https://mssmri.netlify.app/"
+baseURL = "https://scientistwithadog.netlify.app/"
 languageCode = "en"
 theme = "hugo-apero"
-title = "Michael S. Stringer"
-author = "Michael S. Stringer"
+title = "Sara T. R. Velasquez"
+author = "Sara T. R. Velasquez"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
