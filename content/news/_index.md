@@ -2,7 +2,7 @@
 title: News
 description: |
   This will be a hybrid of recent/upcoming events and other news about my research/things that spark my interest.
-author: "Michael S. Stringer"
+author: "Sara T. R. Velasquez"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false
@@ -14,18 +14,18 @@ layout: list # list, list-sidebar
 sidebar: 
   title: News
   description: |
-    This section will be a hybrid of recent/upcoming events and other news about my research/things that spark my interest. If you would like regular updated when there are new posts feel free to subscribe via RSS through the below link.
+    This section will be a hybrid of recent/upcoming events and other news about my research/things that spark my interest. If you would like regularly updated when there are new posts feel free to subscribe via RSS through the below link.
     
     Check out the _index.md file in the /talk folder 
     to edit this content. 
-  author: "Michael S. Stringer"
+  author: "Sara T. R. Velasquez"
   text_link_label: Subscribe via RSS
   text_link_url: /talk/index.xml
   show_sidebar_adunit: false # show ad container
 
 # set up common front matter for all pages inside blog/
 cascade:
-  author: "Michael S. Stringer"
+  author: "Sara T. R. Velasquez"
   show_author_byline: true
   show_post_date: false
   show_post_time: false

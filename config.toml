@@ -96,7 +96,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://orcid.org/my-orcid?orcid=0000-0002-9943-9050"
+      url       = "https://orcid.org/0000-0002-9943-9050"
   [[params.social]]
       icon      = "google-scholar" # icon name without the 'fa-'
       icon_pack = "ai"
