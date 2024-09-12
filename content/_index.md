@@ -3,7 +3,7 @@ title: "Sara T. R. Velasquez"
 subtitle: "Postdoctoral Fellow in Sustainable Materials Science"
 description: "I am a researcher who uses bioinspiration to develop sustainable alternatives for applications where existing materials are polluting."
 images:
-  - img/paolozzi_1939_ds.jpg
+  - img/sv_profile.jpg
 image_left: false
 text_align_left: true
 show_social_links: true # specify social accounts in site config

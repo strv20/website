@@ -43,7 +43,7 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/inv_fig.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "SVDResearch"
+  twitter = "SaraT_Velasquez"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
@@ -71,7 +71,7 @@ enableEmoji = true
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
     use_utterances = true
-    repo_name = "msstringer/website"
+    repo_name = "strv20/website"
     issue_term = "pathname" # url, pathname, or title
     theme = "boxy-light"
     label = "comments :crystal_ball:"
@@ -84,23 +84,23 @@ enableEmoji = true
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/msstringer/"
+      url       = "https://github.com/strv20/"
   [[params.social]]
       icon      = "researchgate" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.researchgate.net/profile/Michael-Stringer-4"
+      url       = "https://www.researchgate.net/profile/Sara-Roldan-Velasquez"
   [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.linkedin.com/in/msstringer/"
+      url       = "https://www.linkedin.com/in/sara-tatiana-r-velasquez"
   [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://orcid.org/my-orcid?orcid=0000-0002-3811-4439"
+      url       = "https://orcid.org/my-orcid?orcid=0000-0002-9943-9050"
   [[params.social]]
       icon      = "google-scholar" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "https://scholar.google.com/citations?user=CZfAHP4AAAAJ&hl=en"      
+      url       = "https://scholar.google.com/citations?user=iBs29cIAAAAJ&hl=en"      
 
 [taxonomies]
   category = "categories"
@@ -129,10 +129,20 @@ enableEmoji = true
     url = "/teaching/"
     weight = 5
   [[menu.header]]
+    name = "Outreach"
+    title = "Outreach"
+    url = "/outreach/"
+    weight = 6
+  [[menu.header]]
     name = "news"
     title = "News"
     url = "/news/"
-    weight = 6
+    weight = 7
+  [[menu.header]]
+    name = "puppy"
+    title = "Puppy"
+    url = "/puppy/"
+    weight = 8
   # [[menu.header]]
    # name = "A collection"
    # title = "A collection"

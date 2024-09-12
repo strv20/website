@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: |
-  Dr Michael S. Stringer.
+  Dr Sara T. R. Velasquez.
 show_header: false
 sidebar_left: true
 # Keep this! Do not edit.
