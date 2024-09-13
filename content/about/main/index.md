@@ -6,12 +6,16 @@ number_categories: 0 # set to zero to exclude
 use_featured: false
 show_intro: true
 intro: |
-  I am a magnetic resonance imaging (MRI) physicist and lecturer at the University of Edinburgh. Most of my research focuses on measuring how well blood vessels are working using MRI. I have worked at the University of Edinburgh since 2016, before which I completed my PhD at the University of Aberdeen (2012-2016) working on brain imaging, and degrees in applied and pure mathematics (Heriot-Watt University and University of Glasgow).
-  
-  I have worked on different international studies using advanced brain imaging and image analysis techniques to understand how damage to the brain causes more severe disease. I was heavily involved with the H2020 funded SVDs\@Target project as well as a Leducq Transatlantic Network on perivascular spaces. 
-  
-  In addition to my research experience I have also been involved with teaching through Edinburgh Imaging Academy. I currently supervise two PhD students (Keelin Ridge and Grant Kirkwood, as first and secondary supervisor respectively). I have also supervised several student projects at Masters and Honours level.
-  
+  I am a material scientist and chemist. I currently work as a post-doctoral researcherin Sustainable Polymer materials at the University of Twente. Most of my research focuses on the future of plastics, by developing sustainable polymeric solutions.
+
+  I completed an international and interdisciplinary PhD in pure and applied chemistry at the University of Strathclyde (2018-2022). My thesis focused on improving the mechanical properties of Bioinspired Amphiphilic polymer conetworks.
+
+  My fascination with Bioinspiration started in 2012, while I was doing an exchange program in France. Following this I pursued my passion by completing a Masters degree at ETH Zurich in the Materials Science department.
+
+  I have worked in different research groups and countries, which has provided me with a very diverse and understanding scientific outlook.
+
+  In addition to my research, I am passionate on scientific outreach, mental health in academia and inspiring under-represented groups to follow scientific careers.
+ 
   The below links explain different aspects of my work in more detail.
   
 show_outro: false
