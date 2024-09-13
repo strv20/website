@@ -16,7 +16,6 @@ intro: |
 
   In addition to my research, I am passionate on scientific outreach, mental health in academia and inspiring under-represented groups to follow scientific careers. 
 The below links explain different aspects of my work in more detail.
-
   
 show_outro: false
 outro: |
