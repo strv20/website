@@ -13,7 +13,7 @@ layout: list-sidebar
 sidebar: 
   title: Outreach
   description: |
-    I have a strong interest in teaching, having qualified for Associate Fellowship of the Higher Education Academy in 2017. There are huge potential benefits from research based teaching, both in giving students exposure to the latest ideas and practices and for researchers. I have supervised several Honours and Masters projects for different programmes, including the Masters in Physics and BSc in Neuroscience. Additionally, I am course tutor for the Edinburgh Imaging Academy's (Clinical) Applications in Disease modules.
+    As a woman of mixed Latinx heritage from a less developed country, I have always had a strong interest in diversity and inclusion activities. I focus on supporting woman, underrepresented groups and supporting mental health in academia through different programs to bring about structural change to improve support and help them realise their full potential.  
   author: ""
   text_link_label: ""
   text_link_url: ""
