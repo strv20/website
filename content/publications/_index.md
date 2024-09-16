@@ -1,7 +1,7 @@
 ---
 title: Publications
 description: "Summary of and links to publications I have been involved with"
-author: "Michael S. Stringer"
+author: "Sara T. R. Velasquez"
 show_post_thumbnail: true
 show_author_byline: false
 show_post_date: false
