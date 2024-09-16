@@ -2,7 +2,7 @@
 title: Teaching
 description: |
   A summary of the courses I have taught on in recent years.
-author: "Michael S. Stringer"
+author: "Sara T.R. Velasquez"
 show_post_thumbnail: true
 show_author_byline: false
 show_post_date: false

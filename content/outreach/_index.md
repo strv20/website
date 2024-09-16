@@ -1,8 +1,8 @@
 ---
 title: Outreach
 description: |
-  A summary of the courses I have taught on in recent years.
-author: "Michael S. Stringer"
+  A summary of the outreach activities I have participated on in recent years.
+author: "Sara T.R. Velasquez"
 show_post_thumbnail: true
 show_author_byline: false
 show_post_date: false
@@ -11,7 +11,7 @@ layout: list-sidebar
 
 # for list-sidebar layout
 sidebar: 
-  title: Teaching
+  title: Outreach
   description: |
     I have a strong interest in teaching, having qualified for Associate Fellowship of the Higher Education Academy in 2017. There are huge potential benefits from research based teaching, both in giving students exposure to the latest ideas and practices and for researchers. I have supervised several Honours and Masters projects for different programmes, including the Masters in Physics and BSc in Neuroscience. Additionally, I am course tutor for the Edinburgh Imaging Academy's (Clinical) Applications in Disease modules.
   author: ""
@@ -28,8 +28,8 @@ cascade:
   show_comments: false # see site config to choose Disqus or Utterances
   # for single-sidebar layout only
   sidebar:
-    text_link_label: View all courses and workshops
-    text_link_url: /teaching/
+    text_link_label: View all outreach activities
+    text_link_url: /Outreach/
     show_sidebar_adunit: false # show ad container
 ---
 
