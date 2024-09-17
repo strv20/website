@@ -36,9 +36,8 @@ links:
 
 <img src="featured.jpg" data-fig-alt="TOC image of paper, showing the bioinspiration used on APCNs " style="width:100.0%" />
 
-#<p class="caption" style="text-align:left;">
-#<b>Figure 3.</b> Assessment of the primary outcome measure in TREAT-SVDs trial. Shown are the technical set-up of the breathing circuit for application of the hypercapnic challenge and measurement of end tidal CO2 (a), the fixed breathing circuit before positioning in the MRI scanner enabling continuous and controlled breathing of medical air or 6% CO2 for quantification of cerebrovascular reactivity (CVR) (b), the breathing paradigm with alternating medical air and 6% CO2 (c), and an exemplary FLAIR scan slice from a study participant with the corresponding masks for CVR analysis (d). The primary endpoint is change in CVR from baseline to treatment in normal-appearing white matter (green area). Further analyses include CVR in white matter hyperintensities (yellow area) and in subcortical grey matter.
-</p>
+<p class="caption" style="text-align:left;">
+
 
 ## Abstract
 
