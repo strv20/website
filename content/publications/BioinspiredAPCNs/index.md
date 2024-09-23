@@ -6,7 +6,7 @@ subtitle: "Improving the mechanical properties of APCNs"
 excerpt: "The mechanical properties of bioinspired amphiphilic polymer conetworks (APCNs) are tailored through the reinforcement with peptide-polydimethylsiloxane-peptide triblock copolymer crosslinkers and characterized through physical, morphological, and mechanical characterization. The obtained results are compared with non-peptidic APCNs which show there is significant improvement in stress, strain, and toughness."
 weight: 5
 author: "Sara T. R. Velasquez"
-date: 2022-12-16
+date: 2024-01-16
 draft: false
 featured: true
 categories:
