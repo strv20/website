@@ -1,7 +1,7 @@
 ---
-title: "Peptide‐Reinforced Amphiphilic Polymer Conetworks"
-subtitle: "Improving the mechanical properties of APCNs"
-excerpt: "The mechanical properties of bioinspired amphiphilic polymer conetworks (APCNs) are tailored through the reinforcement with peptide-polydimethylsiloxane-peptide triblock copolymer crosslinkers and characterized through physical, morphological, and mechanical characterization. The obtained results are compared with non-peptidic APCNs which show there is significant improvement in stress, strain, and toughness."
+title: "Microfluidically Produced Microcapsules with Amphiphilic Polymer Conetwork Shells"
+subtitle: "Development of APCNs as Double emulsion microcapsules"
+excerpt: "Amphiphilic Polymer Conetwork (APCN) microcapsules based on poly(2-hydroxyethyl acrylate)-linked by-polydimethylsiloxane (PHEA-l-PDMS) are produced by double emulsion microfluidics. The characteristics of the APCNs allow the microcapsules to be dried and rehydrated multiple times or shrunk without damage. The microcapsules serve as microreactors for catalytic active platinum nanoparticles and their surface can be selectively functionalized with a cholesterol-based linker."
 weight: 5
 author: "Sara T. R. Velasquez"
 date: 2022-12-16
