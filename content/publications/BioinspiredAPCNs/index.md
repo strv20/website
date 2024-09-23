@@ -1,7 +1,7 @@
 ---
-title: "Peptide‐Reinforced Amphiphilic Polymer Conetworks"
-subtitle: "A bioinspired study"
-excerpt: "Hypertension is the leading modifiable risk factor for cerebral small vessel diseases (SVDs). Yet, it is unknown whether antihypertensive drug classes differentially affect microvascular function in SVDs. We aim to test whether amlodipine has a beneficial effect on microvascular function when compared to either losartan or atenolol, and whether losartan has a beneficial effect when compared to atenolol in patients with symptomatic SVDs."
+title: "Microfluidically Produced Microcapsules with Amphiphilic Polymer Conetwork Shells"
+subtitle: "Development of APCNs as Double emulsion microcapsules"
+excerpt: "Amphiphilic Polymer Conetwork (APCN) microcapsules based on poly(2-hydroxyethyl acrylate)-linked by-polydimethylsiloxane (PHEA-l-PDMS) are produced by double emulsion microfluidics. The characteristics of the APCNs allow the microcapsules to be dried and rehydrated multiple times or shrunk without damage. The microcapsules serve as microreactors for catalytic active platinum nanoparticles and their surface can be selectively functionalized with a cholesterol-based linker."
 weight: 5
 author: "Sara T. R. Velasquez"
 date: 2022-12-16
