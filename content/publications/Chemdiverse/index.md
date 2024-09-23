@@ -1,12 +1,13 @@
 
 
+
 ---
-title: "Peptide‐Reinforced Amphiphilic Polymer Conetworks"
-subtitle: "Improving the mechanical properties of APCNs"
-excerpt: "The mechanical properties of bioinspired amphiphilic polymer conetworks (APCNs) are tailored through the reinforcement with peptide-polydimethylsiloxane-peptide triblock copolymer crosslinkers and characterized through physical, morphological, and mechanical characterization. The obtained results are compared with non-peptidic APCNs which show there is significant improvement in stress, strain, and toughness."
+title: "ChemDiverse: A Chemistry Careers Activity Showcasing Diversity"
+subtitle: "Outreach project about underrepresented groups in Chemistry"
+excerpt: "Through profiles of under-represented “success stories” from academia and industry, the ChemDiverse project was developed to encourage under-represented groups to pursue the chemical sciences at higher education level by providing teachers with an easy and structured way of encouraging Scottish high school students into Science, technology, engineering, and mathematics (STEM) higher education. "
 weight: 1
 author: "Sara T. R. Velasquez"
-date: 2024-01-16
+date: 2023-09-16
 draft: false
 featured: true
 categories:
@@ -21,7 +22,7 @@ links:
 - icon: open-access
   icon_pack: ai
   name: source
-  url: https://doi.org/10.1002/adfm.202207317
+  url: https://pubs.acs.org/doi/10.1021/acs.jchemed.3c00355
 ---
 
 
@@ -58,3 +59,4 @@ links:
 
 
 ### Funding:
+
