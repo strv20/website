@@ -10,10 +10,8 @@ date: 2023-09-16
 draft: false
 featured: true
 categories:
-  - Bioinspiration
-  - peptides
-  - amphiphilic polymer conetwork
-  - APCN
+  - Outreach
+  - STEM
 
 # layout options: single or single-sidebar
 layout: single-sidebar
@@ -21,7 +19,7 @@ links:
 - icon: open-access
   icon_pack: ai
   name: source
-  url: https://pubs.acs.org/doi/10.1021/acs.jchemed.3c00355
+  url:
 ---
 
 
@@ -41,10 +39,9 @@ links:
 <img src="featured.jpg" data-fig-alt="TOC image of paper, showing the bioinspiration used on APCNs" style="width:100.0%" />
 
 <p class="caption" style="text-align:left;">
-<b>Graphical abstract.</b> TOC image of paper, showing the bioinspiration methods we applied to develop novel APCNs.
+<b>Graphical abstract.</b> Outreach activity in Sunshine School, Tegucigalpa, Honduras.
 </p>
 
-A recollection of the different outreach activities I participated throughout my PhD 2018-2022"
 excerpt: "2021 - I’m a scientist, Scotland, https://imascientist.org.uk/
 2021 - Chemdiverse, University of Strathclyde, Scotland
 2020 - 100 voices of academia, mental health posters, by X (twitter) handle @zjayres
