@@ -13,7 +13,9 @@ layout: list-sidebar
 sidebar: 
   title: Teaching
   description: |
-    I have a strong interest in teaching, having qualified for Associate Fellowship of the Higher Education Academy in 2017. There are huge potential benefits from research based teaching, both in giving students exposure to the latest ideas and practices and for researchers. I have supervised several Honours and Masters projects for different programmes, including the Masters in Physics and BSc in Neuroscience. Additionally, I am course tutor for the Edinburgh Imaging Academy's (Clinical) Applications in Disease modules.
+    I have a strong interest in teaching and mentoring.I like to teach students from the undergraduate level up to Masters, as I feel the future of science is based on the knowledge transfer to future generations. I have supervised several exchange, Bachelors and Master projects. Additionally, I have taught on First year laboratories and Master laboratory courses.   
+    
+  
   author: ""
   text_link_label: ""
   text_link_url: ""
