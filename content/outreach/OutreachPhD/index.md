@@ -44,14 +44,14 @@ links:
 <b>Graphical abstract.</b> Outreach activity in Sunshine School, Tegucigalpa, Honduras.
 </p>
 
-2021 - I’m a scientist, Scotland, https://imascientist.org.uk/
-2021 - Chemdiverse, University of Strathclyde, Scotland
-2020 - 100 voices of academia, mental health posters, by X (twitter) handle @zjayres
-2020 - STEM Equal project, International, https://www.stemequals.ac.uk/Initiatives/STEM-Equals-Profiles/Sara-Velasquez
-2020 - Working in wellies, Learning outdoors support team, https://blogs.glowscotland.org.uk/ea/learningoutdoorssupportteam/working-in-wellies-sciences-videos/
-2020 - 1 of the million, woman in STEM, the WISE campaign, international
-2019 - Kidsuni, western Switzerland, organized by the Adolphe Merkle Institute, Switzerland
-2018 - Sunshine School outreach activity, Honduras
+<p>- 2021 - I’m a scientist, Scotland, https://imascientist.org.uk/</p>
+<p>- 2021 - Chemdiverse, University of Strathclyde, Scotland</p>
+<p>- 2020 - 100 voices of academia, mental health posters, by X (twitter) handle @zjayres</p>
+<p>- 2020 - STEM Equal project, International, https://www.stemequals.ac.uk/Initiatives/STEM-Equals-Profiles/Sara-Velasquez</p>
+<p>- 2020 - Working in wellies, Learning outdoors support team, https://blogs.glowscotland.org.uk/ea/learningoutdoorssupportteam/working-in-wellies-sciences-videos/</p>
+<p>- 2020 - 1 of the million, woman in STEM, the WISE campaign, international</p>
+<p>- 2019 - Kidsuni, western Switzerland, organized by the Adolphe Merkle Institute, Switzerland</p>
+<p>- 2018 - Sunshine School outreach activity, Honduras</p>
 
 
 ### Funding:
