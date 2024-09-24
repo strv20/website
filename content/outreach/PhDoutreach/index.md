@@ -49,5 +49,5 @@ excerpt: "2021 - I’m a scientist, Scotland, https://imascientist.org.uk/
 2020 - Working in wellies, Learning outdoors support team, https://blogs.glowscotland.org.uk/ea/learningoutdoorssupportteam/working-in-wellies-sciences-videos/
 2020 - 1 of the million, woman in STEM, the WISE campaign, international
 2019 - Kidsuni, western Switzerland, organized by the Adolphe Merkle Institute, Switzerland
-2018 - Sunshine School outreach activity, Honduras 
+2018 - Sunshine School outreach activity, Honduras"
  
