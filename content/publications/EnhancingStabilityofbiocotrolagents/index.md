@@ -2,7 +2,7 @@
 
 ---
 title: "Enhancing Stability and Efficacy of Trichoderma Bio-Control Agents Through Layer-by-Layer Encapsulation for Sustainable Plant Protection"
-subtitle: "Improving the stability of bio-control agents"
+subtitle: "Kaja Borup Løvschall, Sara T. R. Velasquez, Beata Kowalska, Magdalena Ptaszek, Anna Jarecka, Magdalena Szczech, Frederik R. Wurm"
 excerpt: "Agricultural fungicide pollution poses environmental and health challenges. Potential alternative bio-control agents, such as Trichoderma fungi, face storage limitations. A new encapsulation method using biobased lignin derivatives improves spore stability significantly. Encapsulated Trichoderma spores show enhanced efficacy in cultivating tomatoes, suggesting a promising and sustainable alternative to chemical fungicides for commercialization."
 weight: 1
 author: "Sara T. R. Velasquez"

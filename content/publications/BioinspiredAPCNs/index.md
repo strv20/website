@@ -2,7 +2,7 @@
 
 ---
 title: "Peptide‐Reinforced Amphiphilic Polymer Conetworks"
-subtitle: "Improving the mechanical properties of APCNs"
+subtitle: "Sara T. R. Velasquez, Daseul Jang, Peter Jenkins, Peng Liu, Liu Yang, LaShanda T. J. Korley, Nico Bruns"
 excerpt: "The mechanical properties of bioinspired amphiphilic polymer conetworks (APCNs) are tailored through the reinforcement with peptide-polydimethylsiloxane-peptide triblock copolymer crosslinkers and characterized through physical, morphological, and mechanical characterization. The obtained results are compared with non-peptidic APCNs which show there is significant improvement in stress, strain, and toughness."
 weight: 1
 author: "Sara T. R. Velasquez"

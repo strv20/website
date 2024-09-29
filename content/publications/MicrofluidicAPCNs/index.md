@@ -1,6 +1,6 @@
 ---
 title: "Microfluidically Produced Microcapsules with Amphiphilic Polymer Conetwork Shells"
-subtitle: "Development of APCNs as Double emulsion microcapsules"
+subtitle: "Sara T. R. Velasquez, Andrea Belluati, Elena Tervoort, Iacopo Mattich, Brigitte Hertel, Sam Russell, Micael G. Gouveia, Patrick Grysan, Clément Mugemana, André R. Studart, Nico Bruns"
 excerpt: "Amphiphilic Polymer Conetwork (APCN) microcapsules based on poly(2-hydroxyethyl acrylate)-linked by-polydimethylsiloxane (PHEA-l-PDMS) are produced by double emulsion microfluidics. The characteristics of the APCNs allow the microcapsules to be dried and rehydrated multiple times or shrunk without damage. The microcapsules serve as microreactors for catalytic active platinum nanoparticles and their surface can be selectively functionalized with a cholesterol-based linker."
 weight: 5
 author: "Sara T. R. Velasquez"

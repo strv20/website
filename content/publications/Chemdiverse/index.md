@@ -3,7 +3,7 @@
 
 ---
 title: "ChemDiverse: A Chemistry Careers Activity Showcasing Diversity"
-subtitle: "Outreach project about underrepresented groups in Chemistry"
+subtitle: "Sara T. R. Velasquez, Roslyn Nimmo, Teena Pookayil, Christopher Lydon, Debra Willison, Fraser J. Scott"
 excerpt: "Through profiles of under-represented “success stories” from academia and industry, the ChemDiverse project was developed to encourage under-represented groups to pursue the chemical sciences at higher education level by providing teachers with an easy and structured way of encouraging Scottish high school students into Science, technology, engineering, and mathematics (STEM) higher education. "
 weight: 1
 author: "Sara T. R. Velasquez"
