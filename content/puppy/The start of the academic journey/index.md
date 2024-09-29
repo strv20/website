@@ -38,10 +38,10 @@ links:
 }
 </style>
 
-<img src="featured.jpg" data-fig-alt="Outreach activity in Sunshine School, Tegucigalpa, Honduras." style="width:100.0%" />
+<img src="featured.jpg" data-fig-alt="Hedwig enjoying her ACS blanket, May 2021." style="width:100.0%" />
 
 <p class="caption" style="text-align:left;">
-<b>Graphical abstract.</b> Outreach activity in Sunshine School, Tegucigalpa, Honduras.
+<b>Graphical abstract.</b> Hedwig enjoying her ACS blanket, May 2021.
 </p>
 
 On Friday May 21st 2021, Kentwone Forest Primerose, aka Hedwig, was picked up in Edinburgh to start her journey as an academic puppy. Little she knew the contract she had signed a month before since the moment we first met, where she accepted to become a life long academic puppy. She arrived as the most wonderful gift, to remind me where home was and keep me going in the academic life. The moment she arrived, there was one promised made, no matter what, we would not give up academic opportunities because of her. 
