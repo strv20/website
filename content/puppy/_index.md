@@ -1,7 +1,7 @@
 ---
-title: "About"
+title: "Puppy"
 description: |
-  Dr Sara T. R. Velasquez.
+  Hedwig (Kentwone Forest Primerose)
 show_header: false
 sidebar_left: true
 # Keep this! Do not edit.
