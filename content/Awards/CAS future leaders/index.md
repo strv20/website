@@ -4,7 +4,7 @@ subtitle: "The CAS Future Leaders program supports the growth of science leaders
 excerpt: "The CAS Future Leaders program supports the growth of science leadership among early-career scientists."
 weight: 5
 author: "Sara T. R. Velasquez"
-date: 2024-01-16
+date: 2024-06-16
 draft: false
 featured: true
 categories:
@@ -36,12 +36,12 @@ links:
 }
 </style>
 
-<img src="featured.jpeg" data-fig-alt="" style="width:100.0%" />
 
-<p class="caption" style="text-align:left;">
-<b>Graphical abstract.</b> 
-</p>
 
 The CAS future leaders program 2024, selected 35 early career scientist, for the next step of our leadership journey. The program provides an all expense paid program in Columbus, Ohio the week before the Fall ACS. The program started in 2010. Currently there is a strong Alumni community, who meet during each spring and fall ACS. 
 
+<img src="featured.jpeg" data-fig-alt="" style="width:100.0%" />
 
+<p class="caption" style="text-align:left;">
+
+</p>
