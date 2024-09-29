@@ -1,17 +1,16 @@
 ---
-title: "Female Science Talents Intensive Track 2024"
-subtitle: "A program created by the Falling Walls Foundation"
-excerpt: "The Intensive Track, offers a year-long support programme for 20 exceptionally talented women across all scientific disciplines, with the aim of guiding them toward achieving significant career breakthroughs."
+title: "TappiNANO 2022 Student Award"
+subtitle: "2022 NanoDivision Student Award"
+excerpt: "The NanoDivision's Student Award recognizes current students or students within one year post graduation for their research contributions related to renewable nanomaterials and service to the NanoDivision and other professional societies."
 weight: 5
 author: "Sara T. R. Velasquez"
-date: 2024-03-16
+date: 2023-08-06
 draft: false
 featured: true
 categories:
-  - Falling walls
+  - materials science
   - future leaders
   - leadership
-  - Female Empowerment
 
 
 # layout options: single or single-sidebar
@@ -20,7 +19,7 @@ links:
 - icon: open-access
   icon_pack: ai
   name: link
-  url: https://falling-walls.com/female-science-talents/intensive-track
+  url: https://www.tappinano.org/the-nano-division/division-awards/student-award/
 ---
 
 
@@ -39,7 +38,7 @@ links:
 
 
 
-The Intensive Track, offers a year-long support programme for 20 exceptionally talented women across all scientific disciplines, with the aim of guiding them toward achieving significant career breakthroughs.The program consists of 2 gatherings in Berlin, Germany. As well, throughout the year, online events and mentoring opportunities, support to build an international network and increase the global recognition.   
+The NanoDivision's Student Award recognizes current students or students within one year post graduation for their research contributions related to renewable nanomaterials and service to the NanoDivision and other professional societies.
 
 <img src="featured.jpeg" data-fig-alt="" style="width:100.0%" />
 
