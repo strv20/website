@@ -8,9 +8,10 @@ date: 2024-03-16
 draft: false
 featured: true
 categories:
-  - CAS
+  - Falling walls
   - future leaders
   - leadership
+  - Female Empowerment
 
 
 # layout options: single or single-sidebar
