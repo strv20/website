@@ -133,12 +133,7 @@ enableEmoji = true
     title = "Awards"
     url = "/awards/"
     weight = 6
-  [[menu.header]]
-    name = "Funding"
-    title = "Funding"
-    url = "/funding/"
-    weight = 7
-  [[menu.header]]
+   [[menu.header]]
     name = "Outreach"
     title = "Outreach"
     url = "/outreach/"

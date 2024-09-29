@@ -41,7 +41,7 @@ links:
 <img src="featured.jpg" data-fig-alt="" style="width:100.0%" />
 
 <p class="caption" style="text-align:left;">
-<b>Graphical abstract.</b> Outreach activity in Sunshine School, Tegucigalpa, Honduras.
+<b>Graphical abstract.</b> 
 </p>
 
 Through my journey, I had several mentors who supported and encouraged me to get to where I am today. I am aware that without mentoring, role models and the right guidance, it might be harder or even impossible to explore the full academic potential.
