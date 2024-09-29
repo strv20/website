@@ -18,7 +18,7 @@ layout: single-sidebar
 links:
 - icon: open-access
   icon_pack: ai
-  name: source
+  name: link
   url: https://www.cas.org/about/futureleaders
 ---
 
@@ -36,12 +36,12 @@ links:
 }
 </style>
 
-<img src="featured.jpg" data-fig-alt="" style="width:100.0%" />
+<img src="featured.jpeg" data-fig-alt="" style="width:100.0%" />
 
 <p class="caption" style="text-align:left;">
 <b>Graphical abstract.</b> 
 </p>
 
-## Abstract
+The CAS future leaders program 2024, selected 35 early career scientist, for the next step of our leadership journey. The program provides an all expense paid program in Columbus, Ohio the week before the Fall ACS. The program started in 2010. Currently there is a strong Alumni community, who meet during each spring and fall ACS. 
 
 
