@@ -1,17 +1,16 @@
 ---
-title: "Female Science Talents Intensive Track 2024"
-subtitle: "A program created by the Falling Walls Foundation"
-excerpt: "The Intensive Track, offers a year-long support programme for 20 exceptionally talented women across all scientific disciplines, with the aim of guiding them toward achieving significant career breakthroughs."
+title: "PMSE Centennial:  Future Leaders of Polymeric Materials Science and Engineering"
+subtitle: " 100th Centennial Celebration PMSE"
+excerpt: "This award recognizes the accomplishments of graduate students and postdoctoral researchers who have made significant contributions to their respective fields within polymer materials science and engineering"
 weight: 5
 author: "Sara T. R. Velasquez"
-date: 2024-03-16
+date: 2023-10-06
 draft: false
 featured: true
 categories:
-  - Falling walls
+  - materials science
   - future leaders
   - leadership
-  - Female Empowerment
 
 
 # layout options: single or single-sidebar
@@ -20,7 +19,7 @@ links:
 - icon: open-access
   icon_pack: ai
   name: link
-  url: https://falling-walls.com/female-science-talents/intensive-track
+  url: https://pmsedivision.org/2023/09/2024-pmse-future-leaders/
 ---
 
 
@@ -39,7 +38,7 @@ links:
 
 
 
-The Intensive Track, offers a year-long support programme for 20 exceptionally talented women across all scientific disciplines, with the aim of guiding them toward achieving significant career breakthroughs.The program consists of 2 gatherings in Berlin, Germany. As well, throughout the year, online events and mentoring opportunities, support to build an international network and increase the global recognition.   
+This special PMSE Centennial Symposium seeks to recognize the accomplishments of graduate students and postdoctoral researchers who have made significant contributions to their respective fields within polymer materials science and engineering (e.g., synthesis, processing, characterization, physics and engineering of polymeric materials) and aim to pursue career paths in academia, national or government laboratories, and industry.
 
 <img src="featured.jpeg" data-fig-alt="" style="width:100.0%" />
 
