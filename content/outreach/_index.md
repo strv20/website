@@ -13,7 +13,7 @@ layout: list-sidebar
 sidebar: 
   title: Outreach
   description: |
-    As a woman of mixed Latinx heritage from a less developed country, I have always had a strong interest in diversity and inclusion activities. I focus on supporting woman, underrepresented groups and supporting mental health in academia through different programs to bring about structural change to improve support and help them realise their full potential.  
+    As a woman of mixed Latinx/Black heritage from a less developed country, I have always had a strong interest in diversity and inclusion activities. I focus on supporting woman, underrepresented groups and supporting mental health in academia through different programs to bring about structural change to improve support and help them realize their full potential.  
   author: ""
   text_link_label: ""
   text_link_url: ""

@@ -4,7 +4,7 @@
 ---
 title: "STEM Mentoring / STEM mentoring"
 subtitle: "A way to return the knowledge my journey has given me"
-excerpt: "Offering of STEM mentoring for underrepresented young students as a way of inspiring the future generations to follow STEM paths."
+excerpt: "Offering STEM mentoring in English, Spanish or Portuguese for underrepresented young students as a way of inspiring the future generations to follow STEM paths."
 weight: 1
 author: "Sara T. R. Velasquez"
 date: 2024-06-20
