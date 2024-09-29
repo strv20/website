@@ -19,7 +19,7 @@ links:
 - icon: open-access
   icon_pack: ai
   name: link
-  url: https://www.cas.org/about/futureleaders
+  url: https://www.ntu.edu.sg/mse/news-events/glow2024#SiteSearchBox_C058_Col00
 ---
 
 
