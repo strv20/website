@@ -1,7 +1,7 @@
 ---
-title: Outreach
+title: Academic Puppy
 description: |
-  A summary of the outreach activities I have participated on in recent years.
+  Besides, behind and on front of my research there is Hedwig
 author: "Sara T.R. Velasquez"
 show_post_thumbnail: true
 show_author_byline: false
@@ -11,9 +11,9 @@ layout: list-sidebar
 
 # for list-sidebar layout
 sidebar: 
-  title: Outreach
+  title: Academic Puppy
   description: |
-    As a woman of mixed Latinx/Black heritage from a less developed country, I have always had a strong interest in diversity and inclusion activities. I focus on supporting woman, underrepresented groups and supporting mental health in academia through different programs to bring about structural change to improve support and help them realize their full potential.  
+    The Face besides, behind and on front of my academic journey is my academic puppy Hedwig. She has accepted the challenge of moving with me though four different countries always with a smile and good attitude. Here we will share about out academic adventures together and how she has supported this journey. She is also always willing to wag her tail and give love to all those academics who miss their pets.    
   author: ""
   text_link_label: ""
   text_link_url: ""
@@ -29,7 +29,7 @@ cascade:
   # for single-sidebar layout only
   sidebar:
     text_link_label: View all outreach activities
-    text_link_url: /Outreach/
+    text_link_url: /puppy/
     show_sidebar_adunit: false # show ad container
 ---
 
