@@ -4,7 +4,7 @@ subtitle: "GLObal Conference for Women Leaders and Emerging Researchers in Mater
 excerpt: "GLObal Conference for Women Leaders and Emerging Researchers in Materials Science, Meeting for early career scientist organized by Nanyang Technological University, Singapore"
 weight: 5
 author: "Sara T. R. Velasquez"
-date: 2024-07-16
+date: 2024-08-06
 draft: false
 featured: true
 categories:
