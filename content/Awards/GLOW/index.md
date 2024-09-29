@@ -1,7 +1,7 @@
 ---
-title: "GLOW 2024"
-subtitle: "GLObal Conference for Women Leaders and Emerging Researchers in Materials Science."
-excerpt: "GLObal Conference for Women Leaders and Emerging Researchers in Materials Science, Meeting for early career scientist organized by Nanyang Technological University, Singapore"
+title: "TappiNANO 2022 Student Award"
+subtitle: "2022 NanoDivision Student Award"
+excerpt: "The NanoDivision's Student Award recognizes current students or students within one year post graduation for their research contributions related to renewable nanomaterials and service to the NanoDivision and other professional societies."
 weight: 5
 author: "Sara T. R. Velasquez"
 date: 2024-08-06
@@ -19,7 +19,7 @@ links:
 - icon: open-access
   icon_pack: ai
   name: link
-  url: https://www.ntu.edu.sg/mse/news-events/glow2024#SiteSearchBox_C058_Col00
+  url: https://www.tappinano.org/the-nano-division/division-awards/student-award/
 ---
 
 
@@ -38,7 +38,7 @@ links:
 
 
 
-Dedicated to exploring the opportunities for women in Science & Engineering. The program seeks to shine a spotlight on the remarkable contributions of women leaders while providing a platform for emerging researchers to showcase their talents and form meaningful connections within the field. 
+The NanoDivision's Student Award recognizes current students or students within one year post graduation for their research contributions related to renewable nanomaterials and service to the NanoDivision and other professional societies.
 
 <img src="featured.jpeg" data-fig-alt="" style="width:100.0%" />
 
