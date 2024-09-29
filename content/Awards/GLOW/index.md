@@ -1,7 +1,7 @@
 ---
 title: "GLOW 2024"
-subtitle: " 100th Centennial Celebration PMSE"
-excerpt: "This award recognizes the accomplishments of graduate students and postdoctoral researchers who have made significant contributions to their respective fields within polymer materials science and engineering"
+subtitle: "GLObal Conference for Women Leaders and Emerging Researchers in Materials Science"
+excerpt: "Conference dedicated to exploring the opportunities for women in Science & Engineering organized by NTU Singapore"
 weight: 5
 author: "Sara T. R. Velasquez"
 date: 2024-07-16
@@ -19,7 +19,7 @@ links:
 - icon: open-access
   icon_pack: ai
   name: link
-  url: https://pmsedivision.org/2023/09/2024-pmse-future-leaders/
+  url: https://www.ntu.edu.sg/mse/news-events/glow2024#SiteSearchBox_C058_Col00
 ---
 
 
@@ -37,8 +37,7 @@ links:
 </style>
 
 
-
-This special PMSE Centennial Symposium seeks to recognize the accomplishments of graduate students and postdoctoral researchers who have made significant contributions to their respective fields within polymer materials science and engineering (e.g., synthesis, processing, characterization, physics and engineering of polymeric materials) and aim to pursue career paths in academia, national or government laboratories, and industry.
+The conference celebrates the achievements of women in materials science and chart a course for further empowerment. It aims to shine a spotlight on the remarkable contributions of women leaders while providing a platform for emerging researchers to showcase their talents and form meaningful connections within the field, 
 
 <img src="featured.jpeg" data-fig-alt="" style="width:100.0%" />
 
