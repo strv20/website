@@ -4,7 +4,7 @@ subtitle: "The CAS Future Leaders program supports the growth of science leaders
 excerpt: "The CAS Future Leaders program supports the growth of science leadership among early-career scientists."
 weight: 5
 author: "Sara T. R. Velasquez"
-date: 2024-06-16
+date: 2024-08-06
 draft: false
 featured: true
 categories:
