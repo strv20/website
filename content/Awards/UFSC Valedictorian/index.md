@@ -1,5 +1,5 @@
 ---
-title: "Valedictorian, Best Student, Bachelor in Materials Engineering, 2015.1, Federal University of Santa Catarina, Brazil"
+title: "Valedictorian, Bachelor in Materials Engineering, 2015.1, Federal University of Santa Catarina, Brazil"
 subtitle: "Best Grade point average from the generation graduating on the first semester of 2015"
 excerpt: "The Federal University of Santa Catarina gives an award for the best student of each graduating generation"
 weight: 5
