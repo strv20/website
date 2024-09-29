@@ -2,7 +2,7 @@
 
 
 ---
-title: "STEM Mentoring / STEM mentoring"
+title: "STEM Mentoring / Mentoria sTEM"
 subtitle: "A way to return the knowledge my journey has given me"
 excerpt: "Offering STEM mentoring in English, Spanish or Portuguese for underrepresented young students as a way of inspiring the future generations to follow STEM paths."
 weight: 1
