@@ -1,6 +1,6 @@
 ---
 title: Publications
-description: "Summary of and links to publications I have been involved with"
+description: "Summary of and links to publications I have been involved with, since 2018"
 author: "Sara T. R. Velasquez"
 show_post_thumbnail: true
 show_author_byline: false
