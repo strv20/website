@@ -129,20 +129,30 @@ enableEmoji = true
     url = "/teaching/"
     weight = 5
   [[menu.header]]
+    name = "Awards"
+    title = "Awards"
+    url = "/awards/"
+    weight = 6
+  [[menu.header]]
+    name = "Funding"
+    title = "Funding"
+    url = "/funding/"
+    weight = 7
+  [[menu.header]]
     name = "Outreach"
     title = "Outreach"
     url = "/outreach/"
-    weight = 6
+    weight = 8
   [[menu.header]]
     name = "news"
     title = "News"
     url = "/news/"
-    weight = 7
+    weight = 9
   [[menu.header]]
     name = "puppy"
     title = "Puppy"
     url = "/puppy/"
-    weight = 8
+    weight = 10
   # [[menu.header]]
    # name = "A collection"
    # title = "A collection"
