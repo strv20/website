@@ -1,6 +1,6 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Sara T. R. Velasquez"
+author: "Hedwig"
 role: "Postdoctoral Fellow in Sustainable Polymer Chemistry"
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
