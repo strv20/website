@@ -15,6 +15,16 @@ categories:
 
 
 
+# layout options: single or single-sidebar
+layout: single-sidebar
+links:
+- icon: open-access
+  icon_pack: ai
+  name: 
+  url: 
+---
+
+
 
 <style type="text/css">
 .page-main img {
