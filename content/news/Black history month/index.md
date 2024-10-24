@@ -29,4 +29,4 @@ His determination, perseverance and forward planning, lives with me every day - 
 
 
 
-![](featured_02.jpeg) {{ $image := $image.Resize "600x" }}
+![](featured_02.jpeg {{ $image := $image.Resize "600x" }})
