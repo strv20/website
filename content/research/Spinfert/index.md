@@ -1,7 +1,8 @@
 ---
 title: "SpinFert"
-subtitle: "NWO XS grant 24-1 - Green Guardians: Plant-Based Nanocarriers for Toxic-Free Plant Protection"
-date: 2024-03-08
+subtitle: "SPIN-FERT Consortium, the project, funded by the European Commission under Horizon Europe"
+excerpt: "This project is a consortia, which has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement 101157265."
+date: 2024-06-08
 author: "Sara T. R. Velasquez"
 draft: false
 featured: true
