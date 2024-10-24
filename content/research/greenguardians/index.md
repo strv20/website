@@ -1,6 +1,7 @@
 ---
 title: "Green Guardians"
 subtitle: "NWO XS grant 24-1 - Green Guardians: Plant-Based Nanocarriers for Toxic-Free Plant Protection"
+excerpt: "Project funded by the NWO XS grant 24-1, focused on toxic-free plant protection"
 date: 2024-03-08
 author: "Sara T. R. Velasquez"
 draft: false
