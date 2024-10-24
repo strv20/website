@@ -21,7 +21,7 @@ As we are in Black history month, I felt the need to go back to my ancestors, wh
 In 2018, I went to a PhD interview, where I was asked, who was my role model or someone I admired a lot. I was not prepared for that question and was definitely caught off guard. I automatically answered my grandfather,  who gave up an established life in a small city to move to the capital and give a better life to my mom, aunt and uncles, never looking back. He was a great person with a far-sighted, visionary, perspective.  In a different time, or if he were born somewhere else, he could have done far.  He valued knowledge and education, and instilled those values in his children, which were in turn passed on to me. It is a legacy that I value immensely, and try to keep as alive as possible. 
 
 
-![](featured_01.jpg)
+![](featured_01.jpeg)
 
 At the time, I was struggling a lot with being far away from my family and friends to follow my academic dreams, but every time he came to my mind. I would ask myself, if he could, if they could, despite the sacrifices, why couldn't I? 
 
@@ -29,4 +29,4 @@ His determination, perseverance and forward planning, lives with me every day - 
 
 
 
-![](featured_02.jpg)
+![](featured_02.jpeg)
