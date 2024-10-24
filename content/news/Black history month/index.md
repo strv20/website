@@ -29,4 +29,4 @@ His determination, perseverance and forward planning, lives with me every day - 
 
 
 
-![](featured_02.jpeg)
+![](featured_02.jpeg "50%")
