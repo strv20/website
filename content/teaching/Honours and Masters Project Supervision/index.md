@@ -1,7 +1,7 @@
 ---
 title: "Bachelors and Masters Project Supervision"
-subtitle: "University of Twente"
-excerpt: "Bachelors and Masters Project Supervision<br><br>Supervisor 2018--Present"
+subtitle: "University of Twente, University of Strathclyde and Federal University of Santa Catarina"
+excerpt: "Bachelors and Masters Project Supervision<br><br>Supervisor 2015--Present"
 date: 2024-09-12
 author: "Sara T. R. Velaquez"
 draft: false
