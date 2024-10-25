@@ -1,8 +1,8 @@
 ---
-title: "Pire Bioinspired Materials"
-subtitle: "Bio-inspired Materials and Systems is a Partnerships for International Research and Education (PIRE) program funded by National Science Foundation"
-excerpt: " A research collaboration between the USA and Swiss National Science Foundation"
-date: 2023-10-15
+title: "Future of Plastics"
+subtitle: "An effort to support the research and development of future-proof plastic solutions and eliminate microplastic pollution."
+excerpt: " An initiative from the Dutch ministry of Infrastructure and Water Management"
+date: 2024-10-15
 author: "Sara T. R. Velasquez"
 draft: false
 featured: true
@@ -12,9 +12,8 @@ categories:
 - Bioinspiration
 ---
 
-Project Collaboration which funded my PhD research. It focused on bioinspired materials, for my research more specifically on using bioinspiration to develop mechanically reinforced amphiphilic polymer conetworks. 
+Currently working on the chemical modification of biopolymers, more specifically lignin, for environment-specific biodegradation and prevention of microplastic pollution. 
 
-Through 
+Focusing on the modification of lignin for its valorization and specific biodegradation for diverse applications, including agricultural applications. 
 
-
-https://sites.udel.edu/bioinspiredpire/ 
+https://transitieagendakunststoffen.nl/future-plastics/ 
