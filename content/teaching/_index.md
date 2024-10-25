@@ -2,7 +2,7 @@
 title: Teaching
 description: |
   A summary of the courses I have taught on in recent years.
-author: "Sara T.R. Velasquez"
+author: "Sara T. R. Velasquez"
 show_post_thumbnail: true
 show_author_byline: false
 show_post_date: false
@@ -13,9 +13,7 @@ layout: list-sidebar
 sidebar: 
   title: Teaching
   description: |
-    I have a strong interest in teaching and mentoring.I like to teach students from the undergraduate level up to Masters, as I feel the future of science is based on the knowledge transfer to future generations. I have supervised several exchange, Bachelors and Master projects. Additionally, I have taught on First year laboratories and Master laboratory courses.   
-    
-  
+    I have a strong interest in teaching and mentoring.I like to teach students from the undergraduate level up to Masters, as I feel the future of science is based on the knowledge transfer to future generations. I have supervised several exchange, Bachelors and Master projects. Additionally, I have taught on First year laboratories and Master laboratory courses.
   author: ""
   text_link_label: ""
   text_link_url: ""
