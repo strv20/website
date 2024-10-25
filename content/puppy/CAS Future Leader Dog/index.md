@@ -2,9 +2,9 @@
 
 
 ---
-title: "CAS Future Leader Dog at The ACS Fall 2024"
+title: "CAS Future Leader Dog at the Fall ACS 2024"
 subtitle: "The job of an academic puppy never ends"
-excerpt: "My experience as the first CAS future leader dog at the ACS Fall"
+excerpt: "My experience as the first CAS Future Leader dog at the Fall ACS"
 weight: 1
 author: "Hedwig Velasquez"
 date: 2024-08-16
@@ -38,18 +38,18 @@ links:
 }
 </style>
 
-<img src="featured.jpg" data-fig-alt="Hedwig enjoying her ACS Fall 2024, Denver, CO." style="width:100.0%" />
+<img src="featured.jpg" data-fig-alt="Hedwig enjoying her time at Fall ACS 2024, Denver, CO." style="width:100.0%" />
 
 <p class="caption" style="text-align:left;">
-<b>Graphical abstract.</b> Hedwig enjoying her ACS Fall 2024, Denver, CO.
+<b>Graphical abstract.</b> Hedwig enjoying her time at Fall ACS 2024, Denver, CO.
 </p>
 
 
-After a wonderful week in Colombus, OH, we moved to the ACS Fall 2024 conference in Denver, CO. I Can only say I had a wonderful time and I´m greatful to be such a big support for my owner. We met wonderful scientist, Including the ACS president, ACS president elect and Frances Arnold, 2018 Nobel Laureate. 
+After a wonderful week in Colombus, OH, we moved to the ACS Fall 2024 conference in Denver, CO. I can only say I had a wonderful time and I am grateful to have been able to be there to support my owner. We met wonderful scientists, Including the ACS president, ACS president-elect and Frances Arnold, 2018 Nobel Laureate. 
 
-I networked a lot and appreciate the inclusivity of the ACS to accepting and acknowledging me accompanying my scientist during this conference. 
+I networked a lot and appreciate the inclusivity of the ACS in accepting and acknowledging me accompanying my scientist around the meeting. 
 
-A big thanks to Fernando Gomollon Bel, for introducing me, before introducing my Scientist to the ACS President! 
+Special thanks to Fernando Gomollon Bel, for introducing me to the ACS President, even before introducing my scientist! 
 
 
-<img src="featured_02.jpg" data-fig-alt="Hedwig enjoying her ACS Fall 2024, Denver, CO." style="width:100.0%" />
+<img src="featured_02.jpg" data-fig-alt="Hedwig enjoying her time at Fall ACS 2024, Denver, CO." style="width:100.0%" />
