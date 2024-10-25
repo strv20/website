@@ -44,17 +44,5 @@ links:
 <b>Graphical abstract.</b> TOC image of paper, showing the bioinspiration methods we applied to develop novel APCNs.
 </p>
 
-## Abstract
-
-### Background
-
-### Aims
-
-### Design
-
-### Outcomes
-
-### Discussion
-
-
 ### Funding:
+The project received funding from the Partnership for International Research and Education (PIRE) Bio-inspired Materials and Systems, supported by the U.S. National Science Foundation under Grant No. OISE 1844463 and the Swiss National Science Foundation under Grant No. IZPIP0_177995. Moreover, this work benefitted from support from the Swiss National Science Foundation through the National Center of Competence in Research (NCCR) Bio-Inspired Materials (Grant No. 51NF40-182881). 
