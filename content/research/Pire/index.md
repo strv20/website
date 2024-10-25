@@ -14,8 +14,9 @@ categories:
 
 Project Collaboration which funded my PhD research. It focused on bioinspired materials, my research more specifically on using bioinspiration to develop mechanically reinforced amphiphilic polymer conetworks. 
 
-Throughout my PhD I collaborated directly with Prof. LaShanda Korely´s Research laboratory from University of Delaware. 
+My PhD was developed at Prof. Nico Brun´s research laboratory. Throughout my PhD I collaborated directly with Prof. LaShanda Korely´s Research laboratory from University of Delaware. 
 
+https://bruns-lab.com/ 
 
 https://sites.udel.edu/bioinspiredpire/ 
 
