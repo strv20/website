@@ -25,7 +25,7 @@ In 2018, I went to a PhD interview, where I was asked, who was my role model or 
 
 At the time, I was struggling a lot with being far away from my family and friends to follow my academic dreams, but every time he came to my mind. I would ask myself, if he could, if they could, despite the sacrifices, why couldn't I? 
 
-His determination, perseverance and forward planning, lives with me every day - even if I do not always execute it as well as I would like.  Unfortunately, I didn't have the opportunity to interact and learn more from him, as I was the youngest granddaughter, but sometimes I feel I was very lucky to inherite a lot of his personality (determination, education values and willpower, despite adversity) and his memory is an abiding light in my mind.
+His determination, perseverance and forward planning, lives with me every day - even if I do not always execute it as well as I would like.  Unfortunately, I didn't have the opportunity to interact and learn more from him, as I was the youngest granddaughter, but sometimes I feel I was very lucky to inherit a lot of his personality (determination, education values and willpower, despite adversity) and his memory is an abiding light in my mind.
 
 
 
