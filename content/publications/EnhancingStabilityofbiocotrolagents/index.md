@@ -43,17 +43,6 @@ links:
 <b>Graphical abstract.</b> TOC image of paper, showing the parameters evaluated for Bio-control agents stability improvement
 </p>
 
-## Abstract
-
-### Background
-
-### Aims
-
-### Design
-
-### Outcomes
-
-### Discussion
 
 
 ### Funding:

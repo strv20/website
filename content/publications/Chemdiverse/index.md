@@ -45,18 +45,6 @@ links:
 <b>Graphical abstract.</b> TOC image of paper, showing the bioinspiration methods we applied to develop novel APCNs.
 </p>
 
-## Abstract
-
-### Background
-
-### Aims
-
-### Design
-
-### Outcomes
-
-### Discussion
-
 
 ### Funding:
-
+Funding aquired through the Royal Society of Chemistry through the CHEMDiverse Project, funded to the University of Stratclyde. 
