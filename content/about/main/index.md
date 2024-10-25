@@ -6,7 +6,7 @@ number_categories: 0 # set to zero to exclude
 use_featured: false
 show_intro: true
 intro: |
-  I am a material scientist and chemist. I currently work as a post-doctoral researcher in Sustainable Polymer materials at the University of Twente. Most of my research focuses on the future of plastics, by developing sustainable polymeric solutions.
+  I am a material scientist and polymer chemist. I currently work as a post-doctoral researcher in Sustainable Polymer materials at the University of Twente. Most of my research focuses on the future of plastics, by developing sustainable polymeric solutions. I believe that as scientist, we should develop new scientific discoveries that are beneficial to the environment and adapt to tackle the current societal issues. My research is focusing on developing greener alternatives to the current conventional plastics, especially for agricultural applications.  
 
   I completed an international and interdisciplinary PhD in pure and applied chemistry at the University of Strathclyde (2018-2022). My thesis focused on improving the mechanical properties of Bioinspired Amphiphilic polymer conetworks.
 
