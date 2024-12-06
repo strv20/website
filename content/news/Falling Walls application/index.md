@@ -1,14 +1,14 @@
 ---
-title: "CAS Future Leaders Experience"
-subtitle: "Leadership training week for the CAS future Leaders 2024, organized by CAS"
-excerpt: "A bit about the CAS future leaders 2024 experience and activities"
-date: 2024-08-17
+title: "Applying for the Female Science Talent Intensive Track Program"
+subtitle: "Get to know a bit more about my application process for this amazing program"
+excerpt: "Writing a successful application for the Female Science Talent Intensive Track Program, application for the 2024 Cohort"
+date: 2024-12-06
 #date_end: "2024-08-17"
 show_post_time: false
 #event: "rstudio::global(2021)"
 #event_url: https://global.rstudio.com
 author: "Sara T. R. Velasquez"
-location: "Columbus, United States"
+location: "Enschede, Netherlands"
 draft: false
 # layout options: single, single-sidebar
 layout: single
@@ -16,24 +16,23 @@ categories:
 - blog
 ---
 
-While on my flight from Columbus, Ohio to ACS Fall Meeting in Denver, Colorado, I  have had a bit of time to relect on the CAS Future Leaders program 2024. I was lucky enough to be one of the 35 selected for the program this year. 
+Last November, I received an email from the Organization for Women in Science for the Developing World (OWSD) about the Female Science talent intensive track program. After searching their website, I realized that this was something I needed. I applied and luckily was accepted. Now, having recently arrived home from the Fall meeting, I can honestly say it exceeded even my highest expectations. The cohort I participated with was made up of amazing women, who reminded me once again of the benefits of having a strong female support network! 
 
-The programme started on Sunday evening with a dinner, where I met the other participants, all of whom are doing amazing work spanning different areas of chemistry and materials research.
+If you are considering applying, I strongly recommend you try, as you definitely won't regret it! 
 
-On Monday, the program was fully based on story telling from the Story collider, they did an awsome job teaching us how to tell our scientific story from different perspectives to cater to different audiences. We ended the day with a dinner at Centre of Science and Industry (COSI) complete with private visits to some of the exhibits, a particular highlight was a section on colors, which I always loved given my bioinspired materials background. 
+The application depends soley on you. No recommendation letters are needed for this program, just a motivation letter and a 3 minute video introduction - which can even be filmed on a smartphone. 
 
-On Tuesday, we visited CAS headquarters. In the morning we had presentations from ACS Membership, ACS publications and learned how the CAS content operations work. The content operations chemical formula input was amazing! I was really amazed by it and wish I could do so so easily! 
- 
-During the afternoon we had visit to the data center, Scifinder Q and A and poster presentation. I really enjoyed meeting the CAS staff and especially talking with them about my poster. Even the marketing staff were drawn in by my images, so I cannot be doing too badly with them 😅. The day ended with a BBQ and kickball game, proving scientists can also have fun. 
+My main recommendation for preparing the application is BE YOU! Show who you are, your goals and especially what makes you stand out from others as an amazing scientist! It is not just about conventional metrics (papers, funding etc) - although they are also important - but about having a vision of what you want to do and how the Falling Walls programme fits within that. Always remember that each scientific journey is unique and that is what will make a difference in your research and applications like this.
 
-The next day, Scitrain facilitated an amazing course on coaching, we learned a lot about different approaches, from each other and walked through different scenarios. Special thanks to Noah for acting as my "student". And the ACS coaching journal will accompany me for many years to come. 
+For my video, I thought about my background, what brought me where I am today, what are my motivations to keep on going, even when the experiments do not work as we hope. Also, I remembered the reasons I like to do scientific outreach, networking and my dream to inspire the new generation of scientists, especially from underrepresented groups. It is also about introducing yourself as a person - so Hedwig (my dog), Ivanna (my niece) and others were also mentioned. Female scientist are not brains on a stick, and we need to remember that to get the best from ourselves and those we work with. 
 
-The focus the next day moved on to EDI and Scicomm, which are a particular passion for me. The more I learn about it, the more I am inspired to work with it! 
+Practically, I prepared a script and recorded several takes before I was happy with it! I asked family and friends - some of whom are also scientists - for feedback, which included things like not rushing, working out where to pause for effect and avoiding filler words. So, try to start early and involve those you trust.
 
-We ended the day at the kitchen, putting our chemistry training to practical use making flat bread and our new storytelling techniques to develop our brand. Our group got 2nd place both in the taste test and branding 😋. 
+One thing I particularly remember is everything I said were things I honestly believe in. When you do so, no matter how unconventional it might be, it helps the evaluation commitee connect with you and engage with your ambitions! 
 
-Lastly, on Friday we were supposed to have a visit to the local children's hospital - and ever since getting the programme I had wondered what that would involve. Unfortunately after a few of the group came down with Covid the format was switched to an online session, with a very useful panel discussion on applications of chemistry in medicine with the afternoon free to network, see a bit of Columbus and chat with others from the group. 
+For the motivation letter, draft it yourself, with your personal touch. Please remember that while using AI tools might be tempting, AI will suggest similar things to all the applicants, which won't help you stand out. The requirements for the motivation letter are established on the application package. Playing with showing the best of you in 300 characters is indeed a challenge. So I would recommend you to write a longer description for each section and then reduce it to the essentials. 
 
-I hope this has given you a bit of insight into what the CAS program involves, and if you are thinking about applying what are you waiting for? 🤩 It is really amazing program, and I cannot thank Peter, Nicole, Erika and the rest of the CAS team and other organizers enough for putting it together. 
+Good luck with your application!
+
 
 ![](featured.jpg)
