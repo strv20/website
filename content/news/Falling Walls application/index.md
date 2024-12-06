@@ -16,7 +16,7 @@ categories:
 - blog
 ---
 
-Last November, I received an email from the Organization for Women in Science for the Developing World (OWSD) about the Female Science talent intensive track program. After searching their website, I realized that this was something I needed. I applied and luckily was accepted. Now, having recently arrived home from the Fall meeting, I can honestly say it exceeded even my highest expectations. The cohort I participated with was made up of amazing women, who reminded me once again of the benefits of having a strong female support network! 
+Last November, I received an email from the Organization for Women in Science for the Developing World (OWSD) about the Female Science talent intensive track program, from the Falling Walls Foundation. After searching their website, I realized that this was something I needed. I applied and luckily was accepted. Now, having recently arrived home from the Fall meeting, I can honestly say it exceeded even my highest expectations. The cohort I participated with was made up of amazing women, who reminded me once again of the benefits of having a strong female support network! 
 
 If you are considering applying, I strongly recommend you try, as you definitely won't regret it! 
 
