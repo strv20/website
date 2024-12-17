@@ -19,12 +19,13 @@ categories:
 "I grew up in a country of extremes - wedged between North and South, the Atlantic and Pacific, with everything from glistening beaches to dormant volcanoes and rainforest."
  
 This was the opening sentence of my essay to apply for the CAS 2024 Future Leaders program. In a way it felt over the top, but in other ways it felt right, and it seems it was. Writing my essay was a long process, as I wanted it to be right for such a competitive program, even though I knew I could still apply another year. As 2025 CAS Future Leaders applications are open now, I thought it was a good time to summarise what I learned from my application process, talking with other 2024 future leaders and the amazing program organizers about how to apply and complete the two essential parts of the application, the essay and letter of recommendation.
- 
+
+![](featured.jpeg) 
+
 First lets talk about the Essay:
  
 My first step in applying for the CAS future leaders program was gathering all the information I could find about it. From this I managed to find some very important insight, which really made the difference in working out where to start with the essay. First of all, I found Oliva Harper's [Blog](https://theskyisnotthelimit.org/professional-student/2022/12/28/applying-to-the-cas-future-leaders-program-tips-for-writing-the-essay), 2022 CAS Future Leader, with recommendations on how to write the essay and her essay, which was super helpful. I also had a look at the paper written by the 2019 CAS Future leaders (https://pubmed.ncbi.nlm.nih.gov/32822566/) and a [Youtube Video](https://www.youtube.com/watch?v=NU30_E199ms&ab_channel=MarcReid) by 2016 CAS Future leader Marc Reid.
  
-![](featured.jpeg)
 
 A year on it is hard to separate out exactly what advice I followed from each source, but hopefully they will help some of you get inspired to start writing your own essay. As always, some of the best advice I can give you is be yourself, show what makes you unique, your passion for research and working in science.
  
