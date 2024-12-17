@@ -24,6 +24,8 @@ First lets talk about the Essay:
  
 My first step in applying for the CAS future leaders program was gathering all the information I could find about it. From this I managed to find some very important insight, which really made the difference in working out where to start with the essay. First of all, I found Oliva Harper's [Blog](https://theskyisnotthelimit.org/professional-student/2022/12/28/applying-to-the-cas-future-leaders-program-tips-for-writing-the-essay), 2022 CAS Future Leader, with recommendations on how to write the essay and her essay, which was super helpful. I also had a look at the paper written by the 2019 CAS Future leaders (https://pubmed.ncbi.nlm.nih.gov/32822566/) and a [Youtube Video](https://www.youtube.com/watch?v=NU30_E199ms&ab_channel=MarcReid) by 2016 CAS Future leader Marc Reid.
  
+![](featured.jpeg)
+
 A year on it is hard to separate out exactly what advice I followed from each source, but hopefully they will help some of you get inspired to start writing your own essay. As always, some of the best advice I can give you is be yourself, show what makes you unique, your passion for research and working in science.
  
 My essay had 9 paragraphs, 2 figures and 5 references. I started by explaining where my love for science (and particularly materials) originates. The next two paragraphs outlined my current research interests. The longest paragraph describes my research career journey. From research projects during my Masters, to my PhD with a graphical summary (Figure 1).
