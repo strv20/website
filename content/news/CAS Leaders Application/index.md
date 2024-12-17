@@ -29,13 +29,13 @@ A year on it is hard to separate out exactly what advice I followed from each so
 My essay had 9 paragraphs, 2 figures and 5 references. I started by explaining where my love for science (and particularly materials) originates. The next two paragraphs outlined my current research interests. The longest paragraph describes my research career journey. From research projects during my Masters, to my PhD with a graphical summary (Figure 1).
 
 
-![](featured01.jpg)
+![](featured01.png)
 
 I used the next paragraph to explain how (and why) I transitioned from to my current research and my motivation to pursue a research career path. This linked in with how and why CAS SciFinder is so essential for my interdisciplinary research. It is worth thinking about and mentioning how the SciFinder adds to your research, as this enhances your essay and overall application.
  
 This led on to how I am currently developing my individual research ideas, writing individual fellowship applications and helping inspire the next generation of researchers. I then went into a bit more detail on my career aspirations over the next two paragraphs - how they have changed since I moved to Brazil (almost 15 years ago now!),  relevant extracurricular activities like outreach, mentoring, and inspiring future generations, including through OWSD Honduras.
 
-![](featured02.jpg)
+![](featured02.png)
 
 My closing paragraph summarised how I felt the CAS future leaders would add to my career prospects and achieving my aspirations in future. It mentioned meeting outstanding international chemists, becoming an inspiring female role model and more. Reading that closing paragraph back now, I recognize just how much I managed to gain from this amazing program and how much I am sure I will gain in the coming years by putting the lessons and experiences into practice. The program was even better than I imagined while writing the essay.
  
